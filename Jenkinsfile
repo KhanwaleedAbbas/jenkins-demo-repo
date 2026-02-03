@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Hello from CentOS 10!'
+                echo 'Hello from CentOS 10! '
             }
         }
     }
